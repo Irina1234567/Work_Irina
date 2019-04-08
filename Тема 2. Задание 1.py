@@ -1,4 +1,3 @@
-
 my_list_1 = [2, 5, 8, 2, 12, 12, 4]
 my_list_2 = [2, 7, 12, 3]
 list_1 = set(my_list_1)
@@ -11,4 +10,3 @@ for i in my_list_1:
                 my_list_1.remove(my_list_2[j])
             break
 print (my_list_1)
-
