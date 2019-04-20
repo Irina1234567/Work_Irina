@@ -1,4 +1,3 @@
-
 days = {
     '01': 'первое', '02': 'второе',
     '03': 'третье',  '04': 'четвертое',
@@ -24,4 +23,3 @@ day = days.get(day)
 month = months.get(month)
 print('Введённая дата:', date, sep='\n')
 print('{}' ' {}' ' {}' ' года'.format(day,month,year))
-
